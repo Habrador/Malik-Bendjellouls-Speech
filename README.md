@@ -1,7 +1,7 @@
 # Malik Bendjelloul's Speech
 
 
-This is a translation of a Swedish radio show called "Sommar i P1." It's a show where mainly Swedes talk about their life while playing music they like. One of the Swedes who participated in this radio show was <a href="http://en.wikipedia.org/wiki/Malik_Bendjelloul" target="_blank">Malik Bendjelloul</a>. He's the director of the documentary film <a href="http://www.imdb.com/title/tt2125608/" target="_blank">Searching for Sugar Man</a> that won an Oscar, but he tragically passed away in 2014. He was 36 years old. The original program aired in 2013, is 54 minutes long, and you can find it <a href="http://t.sr.se/T2jC7S" target="_blank">here</a>. The show is briefly interrupted now and then by music chosen by the Malik Bendjelloul.  
+This is a translation of a Swedish radio show called "Sommar i P1." It's a show where mainly Swedes talk about their life while playing music they like. One of the Swedes who participated in this radio show was [Malik Bendjelloul](http://en.wikipedia.org/wiki/Malik_Bendjelloul). He's the director of the documentary film [Searching for Sugar Man](http://www.imdb.com/title/tt2125608/) that won an Oscar, but he tragically passed away in 2014. He was 36 years old. The original program aired in 2013, is 54 minutes long, and you can find it [here](http://t.sr.se/T2jC7S). The show is briefly interrupted now and then by music chosen by the Malik Bendjelloul himself.  
 
 
 > *plays the radio program's signature tune*
